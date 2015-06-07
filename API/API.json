@@ -1,0 +1,214 @@
+﻿{
+  "Locations": [
+    {
+      "Country": "Iraq",
+      "City": "Baghdad",
+      "region": "Middle East",
+      "province":"",
+      "Issued":"1433609674",
+      "level":"No Travel",
+      "current":"Yes",
+      "reason":"Dengue epidemic",
+      "reasonLong":"Dengue fever (UK /ˈdɛŋɡeɪ/ or US /ˈdɛŋɡiː/), also known as breakbone fever, is a mosquito-borne tropical disease caused by the dengue virus. Symptoms include fever, headache, muscle and joint pains, and a characteristic skin rash that is similar to measles. In a small proportion of cases the disease develops into the life-threatening dengue hemorrhagic fever, resulting in bleeding, low levels of blood platelets and blood plasma leakage, or into dengue shock syndrome, where dangerously low blood pressure occurs.",
+      "lat":"34.01005",
+      "lng":"-23.02156",
+      "metaData": [
+        "Irqa"
+      ]
+    },
+    {
+      "Country": "Atlantis",
+      "City": "",
+      "region": "Southern",
+      "province":"",
+      "Issued":"1433609674",
+      "level":"No Travel",
+      "current":"Yes",
+      "reason":"Dengue epidemic",
+      "reasonLong":"Dengue fever (UK /ˈdɛŋɡeɪ/ or US /ˈdɛŋɡiː/), also known as breakbone fever, is a mosquito-borne tropical disease caused by the dengue virus. Symptoms include fever, headache, muscle and joint pains, and a characteristic skin rash that is similar to measles. In a small proportion of cases the disease develops into the life-threatening dengue hemorrhagic fever, resulting in bleeding, low levels of blood platelets and blood plasma leakage, or into dengue shock syndrome, where dangerously low blood pressure occurs.",
+      "lat":"34.01005",
+      "lng":"-23.02156",
+      "metaData": [
+        "Atlantes"
+      ]
+    },
+    {
+      "Country": "Atlantis",
+      "City": "",
+      "region": "Western",
+      "province":"",
+      "Issued":"1433609674",
+      "level":"Create travel plan with Country Director",
+      "current":"Yes",
+      "reason":"Dengue epidemic",
+      "reasonLong":"Dengue fever (UK /ˈdɛŋɡeɪ/ or US /ˈdɛŋɡiː/), also known as breakbone fever, is a mosquito-borne tropical disease caused by the dengue virus. Symptoms include fever, headache, muscle and joint pains, and a characteristic skin rash that is similar to measles. In a small proportion of cases the disease develops into the life-threatening dengue hemorrhagic fever, resulting in bleeding, low levels of blood platelets and blood plasma leakage, or into dengue shock syndrome, where dangerously low blood pressure occurs.",
+      "lat":"58.45423",
+      "lng":"151.49763",
+      "metaData": [
+        "Atlantes"
+      ]
+    },
+    {
+      "Country": "Elbonia",
+      "City": "",
+      "region": "",
+      "province":"",
+      "Issued":"1433609674",
+      "level":"Travel through Airport Only",
+      "current":"Yes",
+      "reason":"",
+      "reasonLong":"",
+      "lat":"34.68523",
+      "lng":"-108.3943",
+      "metaData": [
+        "Elbania"
+      ]
+    },
+    {
+      "Country": "Florin",
+      "City": "",
+      "region": "",
+      "province":"",
+      "Issued":"1433609674",
+      "level":"No Travel",
+      "current":"Yes",
+      "reason":"Violence along the border with Guilder",
+      "reasonLong":"Following the kidnapping of Princess Buttercup, Guilder and Florin have been actively involved in a violent border dispute. Intel suggests an invasion is planned by a man going by the name of Westley. Travelers are cautioned that as the wedding of Princess Buttercup and Prince Huperdinck approaches, war becomes inevitable.",
+      "lat":"14.73102",
+      "lng":"-64.6552",
+      "metaData": [
+        "Floran"
+      ]
+    },
+    {
+      "Country": "Lilliput",
+      "City": "",
+      "region": "",
+      "province":"",
+      "Issued":"1433609674",
+      "level":"No Travel",
+      "current":"Yes",
+      "reason":"",
+      "reasonLong":"",
+      "lat":"-7.53328",
+      "lng":"127.58772",
+      "metaData": [
+        "Liliput"
+      ]
+    },
+    {
+      "Country": "Blefescu",
+      "City": "",
+      "region": "",
+      "province":"",
+      "Issued":"1433609674",
+      "level":"No Travel",
+      "current":"Yes",
+      "reason":"",
+      "reasonLong":"",
+      "lat":"-2.87665",
+      "lng":"-77.17268",
+      "metaData": [
+        "Belfescu"
+      ]
+    },
+    {
+      "Country": "Oceania",
+      "City": "",
+      "region": "",
+      "province":"",
+      "Issued":"1433609674",
+      "level":"Create travel plan with Country Director",
+      "current":"Yes",
+      "reason":"",
+      "reasonLong":"",
+      "lat":"69.87658",
+      "lng":"163.4027",
+      "metaData": [
+        "Oceanic"
+      ]
+    },
+    {
+      "Country": "Panem",
+      "City": "",
+      "region": "",
+      "province":"Eight",
+      "Issued":"1433609674",
+      "level":"No Travel",
+      "current":"Yes",
+      "reason":"Violent protests",
+      "reasonLong":"Due to the recent results of the anniversary edition of the Hunger Games, violent protests have erupted across various provinces supporting the overthrow of The Capital. Tourists are at a high risk regardless of provence visited.",
+      "lat":"70.92381",
+      "lng":"69.79449",
+      "metaData": [
+        "Pamen"
+      ]
+    },
+    {
+      "Country": "Panem",
+      "City": "",
+      "region": "",
+      "province":"Eleven",
+      "Issued":"1433609674",
+      "level":"No Travel",
+      "current":"Yes",
+      "reason":"Violent protests",
+      "reasonLong":"Due to the recent results of the anniversary edition of the Hunger Games, violent protests have erupted across various provinces supporting the overthrow of The Capital. Tourists are at a high risk regardless of provence visited.",
+      "lat":"24.09796",
+      "lng":"-16.43612",
+      "metaData": [
+        "Pamen"
+      ]
+    },
+    {
+      "Country": "Panem",
+      "City": "The Capital",
+      "region": "",
+      "province":"",
+      "Issued":"1433609674",
+      "level":"No Travel",
+      "current":"Yes",
+      "reason":"Violent protests",
+      "reasonLong":"Due to the recent results of the anniversary edition of the Hunger Games, violent protests have erupted across various provinces supporting the overthrow of The Capital. Tourists are at a high risk regardless of provence visited.",
+      "lat":"21.3666",
+      "lng":"106.01202",
+      "metaData": [
+        "Pamen"
+      ]
+    },
+    {
+      "Country": "Middle Earth",
+      "City": "Isengard",
+      "region": "",
+      "province":"",
+      "Issued":"1433609674",
+      "level":"No Travel",
+      "current":"Yes",
+      "reason":"",
+      "reasonLong":"",
+      "lat":"26.67765",
+      "lng":"-112.13297",
+      "metaData": [
+        "Midle Earth"
+      ]
+    },
+    {
+      "Country": "Archenland",
+      "City": "",
+      "region": "",
+      "province":"",
+      "Issued":"1433609674",
+      "level":"Travel through airport and by bus for work only",
+      "current":"Yes",
+      "reason":"Recent Flooding",
+      "reasonLong":"River Winding Arrow, a large bordering river that runs West to East, recently flooded portions of Archenland. Flash floods and dangerous conditions are currently still being reported",
+      "lat":"-40.44452",
+      "lng":"-64.17245",
+      "metaData": [
+        "Archinland"
+      ]
+    }
+  ],
+  "Date": "1433609674"
+}
+
