@@ -57,10 +57,10 @@
             $( "#locationList" ).append( '<li>\
                 <span class="country">'+val.Country+'</span>\
                 <span class="city">, '+val.City+'</span>\
-                <span class="region">, '+val.region+'</span>\
+                <span class="region">, '+val.Region+'</span>\
                 <br />\
                 <span class="hidden">\
-                  Province :'+val.province+'<br />\
+                  Province :'+val.Province+'<br />\
                   Issued :'+val.Issued+'<br />\
                   Level :'+val.level+'<br />\
                   Current :'+val.current+'<br />\
@@ -79,9 +79,13 @@
     </script>
   </head>
 
-<body><span>Login</span>
+<body>
 <span class="ng-scope" style="text-align: center"><img class="titleImage" src="img/peacecorps_logo-home.png" /></span>
-     
+<div>
+    <a href="PeaceCore-debug.apk" download="PeaceCore-debug.apk">Android APK</a> - -
+    <a href="app.xap" download="app.xap">Windows App</a>
+    <span > Or text a city,County to Alerts@PC.gov to get a text back with the alerts</span>
+    </div>     
 <form class="ui-filterable">
     <input id="filterBasic-input" data-type="search">
 </form>

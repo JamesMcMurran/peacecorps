@@ -26,12 +26,16 @@ $query = "SELECT * FROM `Alerts`";
 //execute the query. 
 
 $result = $mysqli->query($query); 
-
+ 
 //display information: 
 
 $stingOut = '';
-while($row = mysqli_fetch_array($result)) { 
-  $stingOut .= json_encode ($row) . ',';
+while($row = mysqli_fetch_array($result,(MYSQLI_ASSOC))) {
+  if(!empty($row["Issued"]))  {
+    $stingOut .= json_encode ($row) . ',';  
+  }
+  
+
 }
 echo '{
   "Locations": [
